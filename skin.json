@@ -1,0 +1,22 @@
+{
+  "name": "Custom TimoThymian Skin",
+  "author": "TimoThymian",
+  "controller": "PS5",
+  "background": "base.svg",
+  "buttons": {
+    "a": { "image": "a.png", "x": 745, "y": 365 },
+    "b": { "image": "b.png", "x": 815, "y": 305 },
+    "x": { "image": "x.png", "x": 675, "y": 305 },
+    "y": { "image": "y.png", "x": 745, "y": 245 }
+  },
+  "sticks": {
+    "left": { "image": "stick_left.png", "x": 360, "y": 360 },
+    "right": { "image": "stick_right.png", "x": 620, "y": 460 }
+  },
+  "dpad": {
+    "up": { "image": "dpad_up.png", "x": 270, "y": 520 },
+    "down": { "image": "dpad_down.png", "x": 270, "y": 580 },
+    "left": { "image": "dpad_left.png", "x": 230, "y": 550 },
+    "right": { "image": "dpad_right.png", "x": 310, "y": 550 }
+  }
+}
