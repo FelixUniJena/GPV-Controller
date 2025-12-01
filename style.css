@@ -1,6 +1,6 @@
 /* Shell & Disconnected */
 .custom.controller, .custom.controller::after {
-  background-image: url('./shell.svg');
+  background-image: url('https://felixunijena.github.io/GPV-Controller/shell.svg');
   background-size: 100vw auto;
   background-position: left top;
   background-repeat: no-repeat;
